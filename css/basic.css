@@ -1,0 +1,16 @@
+.p1{line-height:30px;
+text-align:justify;
+ text-justify:inter-ideograph;
+ text-indent:2em;
+ padding-bottom:0px;
+ margin-bottom:5px;}
+ h2{
+font-family: Impact, Arial;color:#FFFFFF;padding-top:20px; }
+
+ td{
+	 vertical-align: middle !important;
+ }
+ #table1{
+	 width:70%;
+ }
+
