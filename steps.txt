@@ -1,0 +1,9 @@
+更新项目到github的步骤：
+在本地项目里依次（默认设置好的本地的git ssh）
+git init
+git add .                                        # 可以add README.md
+git commit -m "commit info"        # ""里面是提交信息
+git remote add origin url               #url是你要放在github的仓库ssh
+git push -u origin master
+
+更新的时候是 2 3 5行
