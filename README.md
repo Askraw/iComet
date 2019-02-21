@@ -1,0 +1,4 @@
+# iComet
+html and css using bootstrap frame and jQuery
+这个网站是用于妮可的icomet会议，主要是前端。包括了bootstrap和js的使用，需要主要的就是boostrap导航栏的自主媒体尺寸的控制包括js的辅助，使得在导航条超过2行显示的时候直接展示成一个button的形式。
+其中有不少衔接的地方的的问题是通过js解决的。而后端和flask的渲染在实际开发的时候被省去了。实际上用flask渲染的方法能够更快的复用这个代码框架，是下次进行设计值得使用和学习的地方这里把使用flask的部分放在一个单独的文件夹里。
